@@ -2,8 +2,6 @@ package routes
 
 import (
 	"controllers"
-	"new/controllers"
-
 	"github.com/gofiber/fiber/v2"
 )
 
